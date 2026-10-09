@@ -1,4 +1,4 @@
 # .env
-api_id=хххххххх                                           # Замените на ваш API ID
-api_hash='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'               # Замените на ваш API Hash
-phone_number=+xxxxxxxxxxx                                 # Ваш номер телефона для входа (если сессия новая)
+api_id=8818889102                                           # Замените на ваш API ID
+api_hash='AAGkRdrxEYAx_ME8Qsh1Hxw7QS9-Ep1brqs'               # Замените на ваш API Hash
+phone_number=+79060515291                                 # Ваш номер телефона для входа (если сессия новая)
