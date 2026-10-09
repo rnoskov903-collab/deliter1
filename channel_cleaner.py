@@ -52,7 +52,7 @@ load_dotenv()
 API_ID = os.getenv('api_id')
 API_HASH = os.getenv('api_hash')
 PHONE_NUMBER = os.getenv('phone_number')
-CHANNEL_USERNAME = 'homeinv'
+CHANNEL_USERNAME = 'bots'
 current_date_str = datetime.now().strftime("%Y_%m_%d") # Получаем текущую дату и форматируем ее в строку 'ГГГГ_мм_дд'
 WHITELIST_CSV = f"{current_date_str}_subscribers_whitelist.csv" # Собираем полное имя файла с помощью f-строки
 KICKED_LOG_FILENAME = 'kicked_users.csv' # <--- ФАЙЛ ДЛЯ ЛОГОВ
