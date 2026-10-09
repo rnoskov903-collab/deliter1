@@ -50,8 +50,8 @@ if sys.stderr.encoding != 'utf-8':
 # --- КОНФИГУРАЦИЯ ---
 load_dotenv()
 API_ID = 8818889102                                           
-API_HASH = AAGkRdrxEYAx_ME8Qsh1Hxw7QS9-Ep1brqs
-PHONE_NUMBER = os.getenv('phone_number')
+API_HASH = 'AAGkRdrxEYAx_ME8Qsh1Hxw7QS9-Ep1brqs'
+PHONE_NUMBER = +79060515291 
 CHANNEL_USERNAME = 'bots'
 current_date_str = datetime.now().strftime("%Y_%m_%d") # Получаем текущую дату и форматируем ее в строку 'ГГГГ_мм_дд'
 WHITELIST_CSV = f"{current_date_str}_subscribers_whitelist.csv" # Собираем полное имя файла с помощью f-строки
