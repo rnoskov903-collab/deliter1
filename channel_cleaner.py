@@ -49,8 +49,8 @@ if sys.stderr.encoding != 'utf-8':
 
 # --- КОНФИГУРАЦИЯ ---
 load_dotenv()
-API_ID = os.getenv('api_id')
-API_HASH = os.getenv('api_hash')
+API_ID = 8818889102                                           
+API_HASH = AAGkRdrxEYAx_ME8Qsh1Hxw7QS9-Ep1brqs
 PHONE_NUMBER = os.getenv('phone_number')
 CHANNEL_USERNAME = 'bots'
 current_date_str = datetime.now().strftime("%Y_%m_%d") # Получаем текущую дату и форматируем ее в строку 'ГГГГ_мм_дд'
